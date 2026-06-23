@@ -9,7 +9,7 @@ Configured policies included:
 - Require MFA for All Clinical Users
 - Sign-In Risk Protection
 
-Several policies were initially deployed in Report-only mode to evaluate user impact, validate policy logic, and reduce the risk of unintended access disruptions before enforcement.
+Several policies were initially deployed in Report-only mode to evaluate user impact, validate policy logic, and reduce the risk of unintended access disruptions before enforcement. While MFA was enabled due to it being a free security improvement.
 
 <img width="1706" height="804" alt="image" src="https://github.com/user-attachments/assets/f22ed27c-4835-44e9-ad6a-68229d6c9736" />
 
