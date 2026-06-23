@@ -1,4 +1,4 @@
-The Conditional Access implementation included multiple layered security policies designed to strengthen identity protection and reduce organizational attack surface.
+Applied Conditional Access Policies to strengthen identity protection and reduce organizational attack surface.
 
 Configured policies included:
 
