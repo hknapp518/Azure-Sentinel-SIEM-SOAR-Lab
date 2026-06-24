@@ -2,7 +2,7 @@
 
 ## Overview
 
-Microsoft Sentinel SIEM + SOAR lab demonstrating identity threat detection, Entra ID attack simulations, KQL analytics rules, Logic App automation, incident response, and MITRE ATT&CK mapping in Azure.
+Microsoft Sentinel SIEM + SOAR lab focused on identity security, featuring Entra ID attack simulations, KQL detections, automated response playbooks, and incident investigations aligned with MITRE ATT&CK.
 
 Key areas covered in this project include:
 - Microsoft Entra ID identity security
