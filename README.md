@@ -1,4 +1,4 @@
-# Azure-Cloud-Security-and-Compliance-Lab
+# Azure-Sentinel-SIEM-SOAR Lab
 
 ## Overview
 
