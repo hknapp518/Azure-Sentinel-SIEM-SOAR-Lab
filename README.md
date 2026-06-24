@@ -2,9 +2,7 @@
 
 ## Overview
 
-This project demonstrates a  Microsoft cloud security and compliance lab focused on identity protection, threat detection, data governance, and regulatory alignment within Azure and Microsoft 365 environments.
-
-The lab was designed to simulate security operations and compliance controls commonly used in regulated enterprise environments, including healthcare, financial, and government-focused organizations.
+Microsoft Sentinel SIEM + SOAR lab demonstrating identity threat detection, Entra ID attack simulations, KQL analytics rules, Logic App automation, incident response, and MITRE ATT&CK mapping in Azure.
 
 Key areas covered in this project include:
 - Microsoft Entra ID identity security
