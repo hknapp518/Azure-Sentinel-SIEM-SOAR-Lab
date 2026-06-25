@@ -26,7 +26,7 @@ The objective is to reduce the organization's identity attack surface while gene
 * Microsoft Entra ID Configuration
 * Conditional Access Policies
 * Multi-Factor Authentication (MFA)
-* Microsoft Entra ID Identity Protection
+* Risk-Based Conditional Access Policies
 * Role-Based Access Control (RBAC)
 * Least Privilege Administration
 * Sign-In Logging
