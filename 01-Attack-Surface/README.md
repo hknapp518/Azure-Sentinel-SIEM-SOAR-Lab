@@ -6,6 +6,9 @@ Before detecting and responding to security threats, organizations must first es
 
 The objective is to reduce the organization's identity attack surface while generating the authentication telemetry required for Microsoft Sentinel to detect, investigate, and respond to suspicious activity.
 
+
+<img width="637" height="1262" alt="Attack-Surface-Architecture drawio" src="https://github.com/user-attachments/assets/2bb69dfb-327a-40dd-8418-6b63895cf83c" />
+
 ---
 
 ## Objectives
