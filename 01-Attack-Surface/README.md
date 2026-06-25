@@ -40,7 +40,7 @@ The objective is to reduce the organization's identity attack surface while gene
 | ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **Entra-ID-Configuration.md** | Documents the Microsoft Entra ID tenant configuration, authentication methods, logging configuration, and administrative roles.   |
 | **Conditional-Access.md**     | Details the Conditional Access policies implemented to reduce the identity attack surface and strengthen authentication security. |
-| **Identity-Protection.md**    | Covers Microsoft Entra ID Identity Protection, including user risk, sign-in risk, and risk-based access controls.                 |
+
 
 ---
 
