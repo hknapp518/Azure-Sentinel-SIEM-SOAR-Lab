@@ -6,7 +6,7 @@ Before detecting and responding to security threats, organizations must first es
 
 The objective is to reduce the organization's identity attack surface while generating the authentication telemetry required for Microsoft Sentinel to detect, investigate, and respond to suspicious activity.
 
-
+## Architecture Diagram
 <img width="637" height="1262" alt="Attack-Surface-Architecture drawio" src="https://github.com/user-attachments/assets/2bb69dfb-327a-40dd-8418-6b63895cf83c" />
 
 ---
@@ -14,9 +14,9 @@ The objective is to reduce the organization's identity attack surface while gene
 ## Objectives
 
 * Configure a secure Microsoft Entra ID environment
-* Implement identity and access management (IAM) security controls
-* Reduce authentication-related attack surface
-* Enable authentication and audit logging for Microsoft Sentinel
+* Implement layered identity security controls
+* Reduce the organization's identity attack surface
+* Generate authentication telemetry for Microsoft Sentinel
 * Prepare the environment for identity-based attack simulations
 
 ---
