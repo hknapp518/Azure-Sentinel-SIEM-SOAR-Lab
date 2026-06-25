@@ -32,7 +32,11 @@ Uses Microsoft Entra ID Identity Protection to evaluate authentication risk in r
 
 Several Conditional Access policies were initially deployed in Report-only mode to evaluate policy impact, validate policy logic, and identify potential user disruptions before enforcement. Policies were transitioned to On after testing confirmed the expected behavior. Multi-Factor Authentication (MFA) was enabled immediately because it provides a significant security improvement with minimal operational overhead.
 
-> **Figure 1:** Microsoft Entra ID Conditional Access policies configured for the lab environment.
+> **Figure 1:** Conditional Access Policy Overview
+<img width="1826" height="782" alt="image" src="https://github.com/user-attachments/assets/3b98a674-11c3-4d9c-8277-f428b999e4cc" />
+
+
+> **Figure 2:** Microsoft Entra ID Conditional Access policies configured for the lab environment.
 
 
 <img width="1706" height="804" alt="image" src="https://github.com/user-attachments/assets/f22ed27c-4835-44e9-ad6a-68229d6c9736" />
